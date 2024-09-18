@@ -63,21 +63,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve garantir a segurança dos dados dos usuários |  ALTA |
 |RNF-002| A interface deve ser intuitiva e fácil de usar para todas as personas |  ALTA |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- Permitir que o usuário cadastre tarefas.
- Emitir um relatório de tarefas mensais.
- Ajustar automaticamente os fusos horários para compromissos.
- Visualizar compromissos em um calendário mensal.
- Compartilhar eventos e compromissos com outras pessoas.
- Administradores podem visualizar relatórios de uso do sistema.
- Administradores podem excluir ou editar compromissos de qualquer usuário.
-- [Requisitos Não Funcionais
-  O sistema deve ser responsivo para rodar em dispositivos móveis.
- Deve processar requisições do usuário em no máximo 3 segundos.
- O sistema deve garantir a segurança dos dados dos usuários.
- A interface deve ser intuitiva e fácil de usar para todas as personas.
 
 ## Restrições
 
