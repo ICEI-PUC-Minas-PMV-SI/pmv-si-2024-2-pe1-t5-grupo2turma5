@@ -8,19 +8,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Samuel Soares tem 17 anos, é estudante do ensino médio. Pretende se preparar para o vestibular e adequar a nova rotina sem perder muito dos seus momentos de diversão. Escola, tarefas, namorada, futebol no fim de semana e agora o vetibular estão lhe dando dor de cabeça. Está à procura de algo que o ajude a se displinar.   
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Claudia Ferreira tem 43 anos, é promotora de vendas. Recém divorciada, dividir a guarda da filha pequena está sendo uma dor de cabeça. Seja busca-la na natacão, escola ou festa, ou passar o fim de semana na casa do pai, percebeu que precisa se gerenciar melhor. Não esquece algo com frequência mas anda estressada recentemente.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Joaquim Cleto tem 68 anos, é mecânico aposentado. Seu médico do coração recomendou a fazer atividades físicas. Sua esposa tem que ficar lembrando-o dos horários do pilates, de tomar remédios e até mesmo dos retornos das consultas. Pediu ao seu filho para ajuda-lo, principalmente para dar sossego a mulher.
 
 ## Histórias de Usuários
 
