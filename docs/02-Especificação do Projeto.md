@@ -46,9 +46,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-002| Emitir um relatório de tarefas no mês/semana   | MÉDIA |
 |RF-003| Ajustar automaticamente os fusos horários para compromissos   | ALTA |
-|RF-004| Visualizar compromissos em um calendário mensal   | ALTA |
+|RF-004| Visualizar compromissos em um calendário mensal/semanal   | ALTA |
 |RF-005| Compartilhar eventos e compromissos com outras pessoas   | ALTA |
 |RF-006| Administradores podem visualizar relatórios de uso do sistema   | MÉDIA |
 |RF-007| Administradores podem excluir ou editar compromissos de qualquer usuário   | ALTA |
