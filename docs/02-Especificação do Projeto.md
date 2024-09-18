@@ -28,8 +28,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário viajante  |Ajustar automaticamente os fusos horários para compromissos         | Garantir que meus eventos estejam corretamente programados              |
+|Usuário que tem uma agenda lotada       | Visualizar meus compromissos em um calendário mensal| Ter uma visão geral clara do meu mês e planejar melhor meus horários|
+|Usuário que compartilha a agenda com colegas de trabalho       |  Compartilhar eventos e compromissos com outras pessoas| TCoordenar melhor os horários e evitar conflitos|
+|Administrador       | Visualizar relatórios de uso do sistema| Monitorar a frequência de uso e identificar possíveis melhorias para a aplicação|
+|Administrador       | Ter a capacidade de excluir ou editar compromissos de qualquer usuário| Resolver problemas de agendamentos incorretos ou duplicados|
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
