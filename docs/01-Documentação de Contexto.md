@@ -8,22 +8,12 @@ De jovens a idosos -- trabalhadores, estudantes, etc -- todos temos de lidar com
 As dificuldades encontradas na criação, leitura e manutenção de um registro para gerenciamento de tempo eficaz é o problema que iremos abordar.
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo de uma agenda é facilitar a organização do tempo e das atividades diárias,permitindo que osusuários agendem compromisso,lembretes e tarefas de forma práticae acessível.Como por exemplo google agenda e microsoft outlook.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A elaboração de uma agenda de contexto geral é essencial em diversos setores da sociedade uma vez que permite a organização e a coperação de esforçosem torno de objetivos comuns.
+ As agendas ajudam a otimizar recursos, aumentam a produtividade e facilitam a comunicaçãoentre os envolvido, evitando retrabalhos e mal-entendidos. Além disso a utilizaçãode ferramentas digitais para o gerenciamento de agendas possibilita uma flexibilidade que se adapta as necessidades do cotidiano. 
 
 ## Público-Alvo
 
