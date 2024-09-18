@@ -47,6 +47,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-003| Ajustar automaticamente os fusos horários para compromissos   | ALTA |
+|RF-004| Visualizar compromissos em um calendário mensal   | ALTA |
+|RF-005| Compartilhar eventos e compromissos com outras pessoas   | ALTA |
+|RF-006| Administradores podem visualizar relatórios de uso do sistema   | MÉDIA |
+|RF-007| Administradores podem excluir ou editar compromissos de qualquer usuário   | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -55,21 +60,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O sistema deve garantir a segurança dos dados dos usuários |  ALTA |
+|RNF-002| A interface deve ser intuitiva e fácil de usar para todas as personas |  ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
+ Permitir que o usuário cadastre tarefas.
+ Emitir um relatório de tarefas mensais.
+ Ajustar automaticamente os fusos horários para compromissos.
+ Visualizar compromissos em um calendário mensal.
+ Compartilhar eventos e compromissos com outras pessoas.
+ Administradores podem visualizar relatórios de uso do sistema.
+ Administradores podem excluir ou editar compromissos de qualquer usuário.
 - [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+  O sistema deve ser responsivo para rodar em dispositivos móveis.
+ Deve processar requisições do usuário em no máximo 3 segundos.
+ O sistema deve garantir a segurança dos dados dos usuários.
+ A interface deve ser intuitiva e fácil de usar para todas as personas.
 
 ## Restrições
 
