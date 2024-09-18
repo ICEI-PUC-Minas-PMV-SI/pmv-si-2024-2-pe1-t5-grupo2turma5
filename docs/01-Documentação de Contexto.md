@@ -1,18 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto visa entregar uma ferramenta eficiente e intuitiva para visualizar e editar uma agenda de contexto geral, para pessoas com familiaridade básica com computadores/smartphones, com intuito de facilitar o gerenciamento de tempo.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Para o dia a dia na sociedade moderna é importante para cada um de nós que tenhamos consciência e que sejamos capazes de gerenciar nosso tempo. 
+De jovens a idosos -- trabalhadores, estudantes, etc -- todos temos de lidar com a complexidade no agendamento de rotinas, tarefas, compromissos e eventos, procurando evitar conflitos de horário e esquecimento. 
+As dificuldades encontradas na criação, leitura e manutenção de um registro para gerenciamento de tempo eficaz é o problema que iremos abordar.
 
 ## Objetivos
 
