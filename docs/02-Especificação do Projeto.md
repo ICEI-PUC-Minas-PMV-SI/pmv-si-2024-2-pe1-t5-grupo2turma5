@@ -45,13 +45,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês/semana   | MÉDIA |
-|RF-003| Ajustar automaticamente os fusos horários para compromissos   | ALTA |
-|RF-004| Visualizar compromissos em um calendário mensal/semanal   | ALTA |
-|RF-005| Compartilhar eventos e compromissos com outras pessoas   | ALTA |
-|RF-006| Administradores podem visualizar relatórios de uso do sistema   | MÉDIA |
-|RF-007| Administradores podem excluir ou editar compromissos de qualquer usuário   | ALTA |
+|RF-001| Permitir que o usuário gerencie itens (tarefas/reuniões) | ALTA | 
+|RF-002| Emitir relatórios de tarefas no mês/semana/dia | MÉDIA |
+|RF-003| Ajustar automaticamente os fusos horários para itens | ALTA |
+|RF-004| Visualizar compromissos em um calendário mensal/semanal/diário | ALTA |
+|RF-005| Compartilhar eventos e compromissos com outras pessoas | ALTA |
+|RF-006| Administradores podem visualizar relatórios de uso do sistema | MÉDIA |
+|RF-007| Administradores podem gerenciar itens de qualquer usuário | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -59,9 +59,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| O sistema deve garantir a segurança dos dados dos usuários |  ALTA |
-|RNF-002| A interface deve ser intuitiva e fácil de usar para todas as personas |  ALTA |
+|RNF-002| Deve processar requisições do usuário em no máximo 3s | BAIXA | 
+|RNF-003| O sistema deve garantir a segurança dos dados dos usuários | ALTA |
+|RNF-002| A interface deve ser intuitiva e fácil de usar para todas as personas | ALTA |
 
 
 ## Restrições
